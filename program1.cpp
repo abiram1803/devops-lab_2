@@ -17,5 +17,6 @@ int main()
     product = num1*num2;
 
     cout<<"The product of "<<num1<<"and"<<num2<<"is:"<<product<<endl;
+    cout<<"This is multiplication program using c plus plus";
     return 0;
 }
