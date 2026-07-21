@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     //Declare variables to store the numbers and the result
-    double num1, num2, product;
+    int num1, num2, product;
 
     //prompt the user for input
     cout<<"Enter first number:";
