@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-//modified differently on main branch
-=======
 //modified
->>>>>>> conflict-test
 #include<iostream>
 using namespace std;
 
